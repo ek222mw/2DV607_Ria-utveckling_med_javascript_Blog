@@ -1,0 +1,1 @@
+Hi. Have now created the hello world program and talked to David about the course. Now i got a better understanding of the course. /Emil.
