@@ -1,0 +1,1 @@
+Hi the blog. I have now started with project and it will be a quiz. Have pretty much implemented the first question of the quiz.//Emil.
