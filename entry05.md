@@ -1,0 +1,2 @@
+Had to put away way to much time on my software testing course this week, so have not been able to put as much time as i wanted on my project this week. But next week i can probably do that. 
+Started to rebuild my quiz game this week, now using object with arrays instead of separate arrays. Will continue more on that next week.//Emil
