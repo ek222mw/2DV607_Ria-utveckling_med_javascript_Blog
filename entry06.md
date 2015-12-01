@@ -1,0 +1,1 @@
+Have now rebuilded my quiz game so that i use an array with quiz objects and also added an random function to the questions. Using the lodash library. //Emil.
