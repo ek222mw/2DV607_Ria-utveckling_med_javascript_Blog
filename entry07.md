@@ -1,0 +1,1 @@
+Can now play the quiz game and get result after each game. Can also restart the quiz.//Emil.
