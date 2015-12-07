@@ -1,0 +1,1 @@
+Now using numbers instead of text to check if answer is correct. Now importing quiz quests from separate files instead of initialstate. Can play multiple quiz games right now, next step is to get a highscore from each quiz game.//Emil
