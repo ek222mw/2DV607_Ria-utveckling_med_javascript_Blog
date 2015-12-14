@@ -1,0 +1,1 @@
+Using firebase DB now to save highscore on the mixed quiz game next step is to implement it on the other quiz. Had a hard week last week with other courses, but will try to get more done this week in this one.//Emil
