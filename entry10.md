@@ -1,0 +1,1 @@
+Started to refactor the code so it doesn't grow in the actions file if add more quiz, also rebuild quiz so that document get element by id code is gone and replaced with if statements instead. Next step is to fix highscore for the other quiz.//Emil
