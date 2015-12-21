@@ -1,0 +1,1 @@
+Highscores now works on NHL quiz with firebase. Next step is to implement more questions in the quiz and to start fix the css.//Emil
