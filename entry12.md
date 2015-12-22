@@ -1,0 +1,1 @@
+Refactored duplicated code in reducer and moved firebase functionality to actions.js instead of being in the reducer. Next step is to implement more questions in quiz.//Emil
