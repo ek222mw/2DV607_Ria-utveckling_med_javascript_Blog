@@ -1,0 +1,1 @@
+Added more questions to the quiz games and did som small fixes. Next is to deep dive into something and write a bigger blogpost.//Emil
