@@ -1,0 +1,1 @@
+Have now added a deepdive blogpost where i deepdive into lodash api and compare it with underscores library more about that in that blogpost, Link: https://docs.google.com/document/d/1KowMc6gK8t_BscvlKyRdQ1CEfdMRd9XDdNAhWvo8Nbk/edit?usp=sharing .//Emil
