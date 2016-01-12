@@ -1,0 +1,1 @@
+Have now added a two new pull requests(pr), one where i changed Math.floor function to use lodash libs function _.floor instead. On the second pr i changed to use lodashs _.times function instead of an for loop statement makes it more easy to understand.//Emil
